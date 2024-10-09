@@ -4,3 +4,8 @@
 
 ## About Strategy Game
 
+Strategy Game is an Unreal Engine project for the RWU course "Game Development".
+
+It is a turn based strategy game with an isometric view and a grid based world.
+
+TBA
